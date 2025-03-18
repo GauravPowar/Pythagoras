@@ -40,7 +40,7 @@ The script generates a plot with the following features:
 
 ## Example
 
-![Triangle Plot](triangle_plot.png) *(Replace with an actual screenshot of the plot if available.)*
+![Triangle Plot](triangle_plot.png)
 
 ## License
 

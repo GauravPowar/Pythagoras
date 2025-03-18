@@ -22,7 +22,7 @@ This Python script plots a triangle with vertices at the points `i`, `1`, and `0
 2. Run the script using Python:
 
    ```bash
-   python 0=i+1.py
+   python MatLab_Image.py
    ```
 
 3. A plot will be displayed showing the triangle with vertices at:

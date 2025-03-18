@@ -46,7 +46,3 @@ The script generates a plot with the following features:
 
 This project is open-source and available under the MIT License.
 ```
-
-### Notes:
-- Replace `triangle_plot.png` with an actual screenshot of the plot if you want to include an example image in the README.
-- Ensure the script and README are in the same directory for easy reference.

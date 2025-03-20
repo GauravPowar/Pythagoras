@@ -27,7 +27,3 @@ When you run the script, it will plot these points on a 2D plane, labeling the *
 ## **Final Thoughts**  
 
 I built **Pythagoras** as a fun and educational tool for visualizing the geometric relationships of complex numbers. Whether you're a student trying to grasp the concept or just someone who enjoys playing with mathematical visualizations, I hope this project helps make complex numbers a little less "complex"!  
-
-Feel free to check out the repo, try it yourself, and let me know what you think. 🚀  
-
-[🔗 GitHub Repository](https://github.com/GauravPowar/Pythagoras)  

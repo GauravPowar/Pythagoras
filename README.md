@@ -1,4 +1,4 @@
-# Triangle Plotting Script
+# Triangle Plotting
 
 This Python script plots a triangle with vertices at the points `i`, `1`, and `0` on the complex plane. The x-axis represents the **Real Axis**, and the y-axis represents the **Imaginary Axis**.
 

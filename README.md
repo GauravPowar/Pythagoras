@@ -45,4 +45,6 @@ The script generates a plot with the following features:
 ## License
 
 This project is open-source and available under the MIT License.
-```
+   ```bash
+   Credits are appreciated.
+   ```
